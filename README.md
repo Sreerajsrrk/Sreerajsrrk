@@ -4,7 +4,7 @@ Hi 👋 My name is Sreeraj Radhakrishnan
 Full Stack Developer
 --------------------
 
-I've been learning code for the past 2 years. I worked in software testing for a year and a half. Currently a full-stack dev with knowledge in Vue.js and Laravel.
+A Software developer with experience of 3 years in development and a year and a half in software testing. Currently a full-stack dev with knowledge in Next.js, Vue.js, Nest.jsand Laravel.
 
 * 🌍  I'm based in Chennai, Tamilnadu, India
 * ✉️  You can contact me at [sreerajsrrk@gmail.com](mailto:sreerajsrrk@gmail.com)
