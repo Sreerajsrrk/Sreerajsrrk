@@ -4,7 +4,7 @@ Hi 👋 My name is Sreeraj Radhakrishnan
 Full Stack Developer
 --------------------
 
-A Software developer with experience of 3 years in development and a year and a half in software testing. Currently a full-stack dev with knowledge in Next.js, Vue.js, Nest.jsand Laravel.
+A Software developer with experience of 3 years in development and a year and a half in software testing. Currently a full-stack dev with knowledge in Next.js, Vue.js, Nest.js and Laravel.
 
 * 🌍  I'm based in Chennai, Tamilnadu, India
 * ✉️  You can contact me at [sreerajsrrk@gmail.com](mailto:sreerajsrrk@gmail.com)
@@ -28,6 +28,10 @@ A Software developer with experience of 3 years in development and a year and a 
 <a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Lavarel" /></a>
 </p>
+
+### Projects 
+A visual whiteboard app 
+- board-app-rouge.vercel.app
 
 
 ### Socials
