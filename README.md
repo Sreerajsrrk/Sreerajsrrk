@@ -31,7 +31,7 @@ A Software developer with experience of 3 years in development and a year and a 
 
 ### Projects 
 A visual whiteboard app 
-- board-app-rouge.vercel.app
+- <a href="board-app-rouge.vercel.app" target="_blank"> Board App </a>
 
 
 ### Socials
