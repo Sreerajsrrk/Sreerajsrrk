@@ -29,9 +29,12 @@ A Software developer with experience of 3 years in development and a year and a 
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Lavarel" /></a>
 </p>
 
-### Projects 
+### Hobby Projects 
 A visual whiteboard app 
 - <a href="https://board-app-rouge.vercel.app" target="_blank" rel="noreferrer"> Board App </a>
+
+A concise dev tools repo for developers
+- <a href="https://board-app-rouge.vercel.app" target="_blank" rel="noreferrer"> Dexterity Tools </a>
 
 
 ### Socials
