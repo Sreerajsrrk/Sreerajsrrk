@@ -34,7 +34,7 @@ A visual whiteboard app
 - <a href="https://board-app-rouge.vercel.app" target="_blank" rel="noreferrer"> Board App </a>
 
 A concise dev tools repo for developers
-- <a href="https://dexterity-tools.vercel.app/" target="_blank" rel="noreferrer"> Dexterity Tools </a>
+- <a href="https://dub.sh/dexter-tools" target="_blank" rel="noreferrer"> Dexterity Tools </a>
 
 
 ### Socials
